@@ -1,6 +1,11 @@
 <p align="center">
   <img width="180" src="./public/ChatGPT.png" alt="ChatGPT">
-  <p align="center">ChatGPT Desktop Application (Available on Mac, Windows, and Linux)</p>
+  <p align="center">ChatGPT Desktop Application (Available on Mac, Windows, and Linux)
+  </p>
+  <p align ="center">What is ChatGPT?
+  </p>
+  <p align = "center"> ChatGPT is an A.I (Artifical Intelligence) Chatbot that upon being prompted, searches through the internet, collects data, and responds to the prompt using it's collected data to make an informed response
+  </p>
 </p>
 
 [![ChatGPT downloads](https://img.shields.io/github/downloads/lencx/ChatGPT/total.svg?style=flat-square)](https://github.com/lencx/ChatGPT/releases)
